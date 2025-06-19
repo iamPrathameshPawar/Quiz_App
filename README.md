@@ -1,5 +1,3 @@
-## Getting Started
-
 # Quiz_App
 
 ✅ Flutter Basics & Widgets
