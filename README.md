@@ -47,3 +47,19 @@
 2. Expanded Widget 
 3. Filtering & Analyzing Lists
 4. Making Content Scrollable with SingleChildScrollView
+
+
+
+# Screenshots  
+
+# 1. Start Screen 
+<img width="385" alt="Screenshot 2025-06-19 at 5 45 54 PM" src="https://github.com/user-attachments/assets/b9b03469-a905-4237-961c-61f93c962c77" />
+
+# 2. Questions Screens 
+<img width="368" alt="Screenshot 2025-06-19 at 5 46 03 PM" src="https://github.com/user-attachments/assets/4f5c4977-7330-4bd5-871f-5b3b751063bc" />
+<img width="383" alt="Screenshot 2025-06-19 at 5 46 12 PM" src="https://github.com/user-attachments/assets/820a1613-d3c8-4155-953b-4b0392f97186" />
+
+# 3. Result Screen 
+<img width="380" alt="Screenshot 2025-06-19 at 5 46 22 PM" src="https://github.com/user-attachments/assets/53796d45-85de-441e-b916-80f44e2a4c28" />
+
+
