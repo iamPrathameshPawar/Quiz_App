@@ -59,7 +59,7 @@
 <img width="368" alt="Screenshot 2025-06-19 at 5 46 03 PM" src="https://github.com/user-attachments/assets/4f5c4977-7330-4bd5-871f-5b3b751063bc" />
 <img width="383" alt="Screenshot 2025-06-19 at 5 46 12 PM" src="https://github.com/user-attachments/assets/820a1613-d3c8-4155-953b-4b0392f97186" />
 
-# 3. Result Screen (Implemented Scrollable Contect View to Right and Wrong Answers )
+# 3. Result Screen (Implemented Scrollable Contect View to see Right and Wrong Answers )
 <img width="380" alt="Screenshot 2025-06-19 at 5 46 22 PM" src="https://github.com/user-attachments/assets/53796d45-85de-441e-b916-80f44e2a4c28" />
 
 
