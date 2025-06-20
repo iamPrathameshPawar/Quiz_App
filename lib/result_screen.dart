@@ -6,24 +6,24 @@ import 'package:google_fonts/google_fonts.dart';
 class ResultScreen extends StatelessWidget {
   const ResultScreen({
     super.key,
-    required this.chosenAnswer,
+    required this.chosenAnswers,
     required this.onRestart,
   });
 
-  final List<String> chosenAnswer;
+  final List<String> chosenAnswers;
 
   final void Function() onRestart;
 
   List<Map<String, Object>> getSummary() {
     final List<Map<String, Object>> summary = [];
 
-    for (var i = 0; i < chosenAnswer.length; i++) {
+    for (var i = 0; i < chosenAnswers.length; i++) {
       summary.add(
         {
           'question_index': i,
           'question': questions[i].text,
           'correct_answer': questions[i].answers[0],
-          'user_answer': chosenAnswer[i],
+          'user_answer': chosenAnswers[i],
         },
       );
     }
